@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link, useNavigate, useParams } 
 import axios from 'axios';
 import './App.css';
 
-const API = 'https://assignment-2-jfly.onrender.com';
+const API = 'https://student-management-system-n3pz.onrender.com';
 
 // Sidebar Component - replaces the Navbar for a vertical layout
 const Sidebar = () => {
